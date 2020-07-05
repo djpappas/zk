@@ -19,8 +19,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Testing Git.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -78,5 +81,8 @@
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
-  }
+  },
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
 }
