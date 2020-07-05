@@ -1,0 +1,34 @@
+- Summary: Taking care of Becky has become extremely challenging.  Surviving the effort emotionally requires significant effort.  A helpful approach is to project myself forward in time to visualize the things I can do after she leaves the house.
+- In no particular order:
+    - Remove the piano ([sell ](https://carusopianos.com/sell-your-piano/seller-information-form)most likely)
+    - Purchase a small dinning room table for the open space in the great room
+    - Paint the house - but especially the ceiling and walls in the kitchen and great room.  The sequence matters here
+    - Empty the garage
+        - Get a light duty dumpster and load stuff in to it
+    - Donate Becky's clothes
+    - Donate the spare dressers in the bedroom
+    - Replace the old bed with a top end smart bed
+    - Have wood laminate installed throughout the entire house (but likely in pieces)
+        - Piano must go first
+        - Secure a POD and put all of the house furniture in it.  Then turn the house over to a painter and flooring installation team.  Maybe reserve the master bedroom for the last room
+- Join the Y and start swimming every day.  Enroll in a beginner's yoga class.
+- Walk every day.  Purchase winter clothes which will support the ambition of walking every day
+- Take a road trip to visit Matt and see the sights in Milwaukee
+- Spend a few nights in a hotel in Columbus and visit with Michelle
+- Take a road trip to the Grand Canyon
+- Take a cross country railroad trip
+- Visit Europe for an extended vacation
+- Take one of the European River Cruisies (Viking?)
+- Get yard landscaped
+- Get roof replaced
+- Get privacy fence installed on west face of yard
+- Have an patio installed in the back
+- Have a patio installed in the front
+- Have a nice wired and wireless internet system installed in house
+- Purchase a large OLED TV for the Great Room
+- Move office in to the master bedroom as a home office, freeing up current 'office' for a more spacious guest bedroom
+- Move my clothes in to the master bedroom
+- Remove Becky's toiletries and establish yourself in the master bath
+- Get Hue lights working throughout the house
+- Get Hue lights working outside house (accent lights and path lights)
+- 

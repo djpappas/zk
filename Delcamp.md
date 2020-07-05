@@ -1,0 +1,7 @@
+- [[Delcamp]] [[May 21st, 2020]]Consultation Agenda
+    - Going down steps, I tend to avoid falling on my right foot and instead prop myself on my right arm using the rail so that I don't put my full weight down on the ankle
+    - I don't run out of fear of the foot fall on my right ankle
+    - If I don't take care of myself, the ankle gets sensitive and hurts even if I don't stress it
+    - I would like to get to the point where I can do some light jogging/fast walking
+- [[Delcamp]] [[May 21st, 2020]]Consultation Results
+    - X-rays taken.  I have mild arthritis.  My ankle looks like it has been well used.  Nothing dramatic - some bone spurs and in one case a narrower gap between bones.  Take Ibuprofen when irritated.  Try bicycling or swimming as exercise instead of trying to run (which I won't)

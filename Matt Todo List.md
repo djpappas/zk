@@ -1,0 +1,11 @@
+- Pull things out of the garage and either a) donate them to the Goodwill; or b) put them out to the street to be picked up on special trash day.
+- Pull everything out of the storage unit so we can close it down.
+- Pick out several couches for the office
+- Pack all spare sets of dishes.  We will have only one set of dishes in the kitchen. 
+- Pack all spare sets of glasses.
+- Pack all spare sets of kitchen utensils
+- Pack all cookbooks (from garage, utility closet and beneath the microwave)
+- Put the microwave stand out on the street
+- Put the rolling storage unit near garage door out on the street (this may not be possible given its location in the garage and the obstacles to the door)
+- Put the cedar hutch on the street
+- 

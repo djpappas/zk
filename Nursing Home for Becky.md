@@ -1,0 +1,26 @@
+- Ranking
+    - [Stonespring of Vandalia](https://www.medicare.gov/nursinghomecompare/profile.html#profTab=0&ID=366388&Distn=17.3&lat=40.0620944&lng=-84.2067992&cmprDist=19.9%2C18.4%2C17.3) 
+Do not have any open beds and have a six-person waitlist.  The longest wait time of those on the list is seven months.  That's not an option.
+    - [Grace Brethren Village](https://www.medicare.gov/nursinghomecompare/profile.html#profTab=0&ID=366263&Distn=18.4&lat=40.0620944&lng=-84.2067992&cmprDist=19.9%2C18.4%2C17.3)
+Julie is the admissions director and was very helpful.
+    - [Springmeade Healthcenter](https://www.medicare.gov/nursinghomecompare/profile.html#profTab=0&ID=365882&Distn=9.2&lat=40.0620944&lng=-84.2067992&cmprDist=19.9%2C18.4%2C17.3)
+- Entry criteria - Get to less than 30k in the combined accounts below
+    - Less than 30k in cash (Tracking Spreadsheet)
+        - Checking
+            - 5/3 (13,988)
+            - Credit Union (983.09)
+        - IRA
+            - Vanguard (42,874.12)
+            - Janus (2,817.57)
+        - Savings
+            - 5/3 (4397.57)
+            - Credit Union (5)
+        - Total - 65,059 - 30 = 35k
+        - Current Commitments
+            - Roofing (12k)
+            - Flooring ()
+            - Painting ()
+            - Tree Removal ()
+            - Landscaping ()
+            - Sprinkler System ()
+            - Security System ()

@@ -1,0 +1,21 @@
+- The [case ](https://www.justice.gov/file/1015126/download)against [[Michael Flynn]] was originally filed on [[December 1st, 2017]] in the U.S. District Court for the District of Columbia.  He pleaded guilty to five counts of perjury (not certain of the correct legal term).
+- [[Michael Flynn]]'s attorney's in this case were [[Robert K. Kelner]] and [[Stephen P. Anthony]].
+- Timeline:
+    - [[November 8th, 2016]] [[The Hill]] publishes a paper authored under the direction of the country of [[Turkey]] and on their behalf.
+    - [[December 21st, 2016]] [[Egypt]] submitted a resolution to the [[United Nations Security Council]] regarding [[Israel]] settlements. 
+    - [[December 22nd, 2016]] 
+        - A 'very senior member of the [[Presidential Transition Team]] directed [[Michael Flynn]] to contact officials from foreign governments to learn each government's position on the Egyptian motion. He was also directed to influence governments to delay the vote.
+        - [[Michael Flynn]] contacted the Russian Ambassador and informed him of the incoming administration's opposition to the resolution and requested [[Russia]]'s cooperation.
+    - [[December 23rd, 2016]] [[Michael Flynn]] spoke with the Russian Ambassador where he assured Flynn that Russia would not vote against the resolution.
+    - [[December 28th, 2016]] President [[Barack Obama]] signed [[Executive Order 13757]] announcing sanctions against [[Russia]] for that governments interference in the 2016 presidential election.
+    - [[December 28th, 2016]] The Russian Ambassador, , contacted [[Michael Flynn]]
+    - [[December 29th, 2016]] 
+        - [[Michael Flynn]] called a 'senior official of the Presidential Transition Team at [[Mar-a-Lago]] resort in [[Palm Beach]], [[Florida]] to get direction on how to respond to the Russian Ambassador.
+        - [[Michael Flynn]] called the 'senior official of the [[Presidential Transition Team]] to report on the substance of the call with the Russian Ambassador
+        - [[Michael Flynn]] called the Russian Ambassador and asked Russia to not escalate the situation
+    - [[December 30th, 2016]]: Russian President [[Vladimir Putin]] releases statement indicating [[Russia]] will not take retaliatory measures in response to the sanctions
+    - [[December 31st, 2016]] 
+        - Russian Ambassador calls [[Michael Flynn]] and confirms [[Russia]] will not retaliate to the sanctions.
+        - [[Michael Flynn]] reports the conversation to the 'senior official of the [[Presidential Transition Team]]'
+    - [[January 24th, 2017]] Lied to FBI investigators regarding his action above
+    - [[March 7th, 2017]] Made false statements in a [[Foreign Agents Registration Act]] filing regarding his company's ([[Flynn Intel Group]]) work on behalf of [[Turkey]].

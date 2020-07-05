@@ -1,0 +1,12 @@
+- Source material:
+    - E:\HiTrust Certification
+- High Level Tasks
+    - Ensure all in scope servers are enrolled in LogRythm
+        - 8 'sites' are clusters or farms of servers.  We need the component servers to complete this work.  [[Ron Griebel]] has this task.
+            - Ron has provided this content.
+        - 144 total servers
+    - Ensure all in scope servers are enrolled in periodic vulnerability scans
+        - 8 'sites' are clusters or farms of servers.  We need the component servers to complete this work
+            - All of these sites' component servers were already in the list.  This task is completed.
+    - 144 total servers
+    - Ensure all in scope servers are in Snow

@@ -1,0 +1,13 @@
+- i am of a mind to write a series of fictional stories describing humanities expansion in to the solar system - and it's conflict with an 'external' species intent on taking Earth.  My notes were started in the 2019/2020 notebook but I'm trying to pull the development effort in here.
+- I need to organize notes on this subject but don't as yet know how.
+- The narrative is epic, spanning multiple generations - but must focus on the growth of a small number of individuals.  The primary protagonist is a military strategist (ultimately) who starts in a humble place in the first novel.  
+- Subjects I would like to incorporate in to the series:
+    - Artificial Intelligence
+    - Biological augmentation
+    - Medical Science versus Privacy
+    - Augmented Reality
+- I'll need labels for these subjects but at present am too ignorant to even research the topics:
+    - Computer generated visual and auditory stimulus 'tuned' to an individual by monitoring the response of the brain to stimulus and altering both auditory and visual stimulus.  Without limit, the subject of the feedback loop becomes transfixed and unable to respond to any other real world stimulus.
+    - The advancement of the human-machine interface.  Man's ability to 'read' the reactions of others is refined and augmented through specialized AI's which both monitor and moderate emotional responses of the host while interpreting the responses of others to benefit the host.  "I can tell you are stressed about this subject. Why?" The primary protagonist will not accept augmentation and is therefore an anacronysm - unable to shield her thoughts from others - or understand the more nuanced responses (all while being able to read the import of events and respond better than others)
+    - The advancement of medical science/hospital science requires the complete isolation of individual's biome from others'. To create this isolation, individuals must be completely isolated from each other.  A hospital's ability to deliver effective service must completely control an individual's privacy
+    - Software development, open source and collaborative development.  The advancement of AI through iterative, generational testing frameworks that start narrow in focus and eventually develop general purpose AI frameworks that work together to serve humanity as it expands in to the universe.  

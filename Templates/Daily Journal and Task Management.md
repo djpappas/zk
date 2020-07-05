@@ -1,0 +1,6 @@
+- Daily Journal and Task Management
+    - [[Activity Log]]
+    - [[Tasks]]
+    - [[Completed Tasks]]
+    - [[Archive]]
+- 

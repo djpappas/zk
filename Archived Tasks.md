@@ -1,0 +1,1 @@
+- Parking spot for completed tasks to the accomplishment reporting can be driven from the Completed Tasks list

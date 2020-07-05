@@ -1,0 +1,16 @@
+- I'll want the Ubiquiti system to ease management.
+    - Firewall - [USG 4 Pro](https://www.ui.com/unifi-routing/unifi-security-gateway-pro-4/)
+    - Switch - [UniFi Switch PRO 24 PoE](https://store.ui.com/collections/routing-switching/products/usw-pro-24-poe)
+    - Security/Management - [Cloud Key Gen2 Plus](https://unifi-protect.ui.com/cloud-key-gen2)
+    - Access Point - [UAP‑AC‑HD](https://unifi-hd.ui.com/)
+    - Cameras - [Unifi Video Camera G4-Pro](https://www.ui.com/unifi-video/unifi-video-camera-g4-pro/)
+    - Network Rack - [Kenuco Black 4U Wall Mount Open Frame Steel Network Equipment Rack](https://www.amazon.com/KENUCO-Mount-Frame-Network-Equipment/dp/B083FD5FP6/ref=as_li_ss_tl?keywords=wall%2Bmount%2Brack&qid=1559676843&s=gateway&sr=8-5&linkCode=sl1&tag=murraynet-20&linkId=a945b4c7002d7690e33cfb722053338c&language=en_US&th=1)
+    - Home Server? - 
+    - Network Storage? - [DS1019](https://www.synology.com/en-global/products/DS1019+) with two [Seagate IronWolf Pro 16TB drives](https://www.amazon.com/Seagate-IronWolf-5900RPM-Internal-3-5-Inch/dp/B07R1P55GR/ref=pd_bxgy_img_2/138-5266290-9028147?_encoding=UTF8&pd_rd_i=B07H289S79&pd_rd_r=6d00c1a7-e4f8-448a-afbc-60a606af86c4&pd_rd_w=67BKd&pd_rd_wg=wK0cU&pf_rd_p=4e3f7fc3-00c8-46a6-a4db-8457e6319578&pf_rd_r=PA1W0N8RPB6B28BBCEVE&refRID=PA1W0N8RPB6B28BBCEVE&th=1)
+    - UPS? - 
+    - Cable Modem - [NETGEAR Nighthawk Cable Modem with Voice CM1150V](https://www.amazon.com/NETGEAR-Nighthawk-Cable-Modem-CM1150V/dp/B07LCHLFD6)
+    - CAT-6 cable
+- Resources
+    - Implementing Rack
+        - [Geek Pub](https://www.thegeekpub.com/5583/installing-home-network-rack/)
+        - 
